@@ -1,3 +1,5 @@
+% Written by Alaoefyn
+
 % The mathemathican needs to type 3 variables to start calculating
 variable1 = input('x1 = ');
 variable2 = input('x2 = ');
