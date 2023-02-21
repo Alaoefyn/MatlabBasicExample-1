@@ -1,3 +1,5 @@
+% Written by Alaoefyn
+
 salaryAmount = input("Your monthly income = ");
 publicEmployee = input("Are you a public employee = ", "s");
 
