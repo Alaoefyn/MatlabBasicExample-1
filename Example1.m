@@ -1,12 +1,3 @@
-% Affan Selim Kaya 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 1 Example 1
-% Asst.Prof. Deniz Dal
-
 xVariable = input("x = ");
 yVariable = input("y = ");
 %First things first,taking variables for calculation
