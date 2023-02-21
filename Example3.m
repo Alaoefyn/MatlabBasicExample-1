@@ -1,12 +1,3 @@
-% Affan Selim Kaya 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 1 Example 3
-% Asst.Prof. Deniz Dal
-
 number1 = input("Please enter 1st number = ");
 number2 = input("Please enter 2nd number = ");
 number3 = input("Please enter 3rd number = ");
