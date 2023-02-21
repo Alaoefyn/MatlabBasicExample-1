@@ -1,16 +1,7 @@
-% Affan Selim Kaya 
-% 200709006
-% Computer Engineering (Eng)
-% Introduction to Programming 
-% CEN103
-% 2020-2021 1st Somestr
-% Project 1 Example 2
-% Asst.Prof Deniz Dal
-
 laptopquantity = input('Number of laptops  = ');
 
 if laptopquantity <= 100
-    % Each laptop going to sell on 10k price because of ÝF term
+    % Each laptop going to sell on 10k price because of ÃF term
     totalamount = laptopquantity*10000;
 elseif 100<laptopquantity && laptopquantity<200
     % 10000 x %10
