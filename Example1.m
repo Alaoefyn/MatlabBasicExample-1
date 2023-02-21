@@ -1,3 +1,5 @@
+% Written by Alaoefyn
+
 xVariable = input("x = ");
 yVariable = input("y = ");
 %First things first,taking variables for calculation
