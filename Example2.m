@@ -1,3 +1,5 @@
+% Written by Alaoefyn
+
 laptopquantity = input('Number of laptops  = ');
 
 if laptopquantity <= 100
