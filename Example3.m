@@ -1,3 +1,5 @@
+% Written by Alaoefyn
+
 number1 = input("Please enter 1st number = ");
 number2 = input("Please enter 2nd number = ");
 number3 = input("Please enter 3rd number = ");
